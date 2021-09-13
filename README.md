@@ -1,7 +1,9 @@
-#Test file
+# Test file
 
-##Phase one
+## Phase one
+
 Creating _simple_ web page with links and subpages
 
-##Phase two
+## Phase two
+
 Adding _CSS_ code to it
